@@ -1,1 +1,1 @@
-# Basic Exampels from w3schools.com
+# Basic exampels from w3schools.com
